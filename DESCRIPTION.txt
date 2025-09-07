@@ -1,0 +1,10 @@
+Package: reprorec
+Type: Package
+Title: Reproducibility Receipts
+Version: 0.1.0
+Description: Fetch files and write integrity receipts; verify later.
+Authors@R: person("Jacqueline", "Seufert", email = "jacqueline-seufert@web.e", role = c("aut","cre"))
+License: MIT + file LICENSE
+Depends: R (>= 4.1)
+Imports: httr2, jsonlite, digest, fs, cli, tools, readr
+Encoding: UTF-8

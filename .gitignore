@@ -1,0 +1,20 @@
+# R and project cruft
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rproj
+
+# local env
+renv/
+renv.lock
+
+# downloads 
+data/
+# receipts are useful to version:
+!receipts/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

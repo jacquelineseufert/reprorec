@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "tool": "reprorec",
+  "tool_version": "0.1.0",
+  "timestamp_utc": "2025-09-07T17:42:22Z",
+  "source": {
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/files/data/nama_10_gdp.tsv.gz",
+    "doi": {},
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "content_length": 1864,
+    "etag": null,
+    "last_modified": null
+  },
+  "file": {
+    "path": "C:/Users/benva/OneDrive/Documents/reprorec/Code/data/nama_10_gdp_2025-09-07_1942.tsv.gz",
+    "size_bytes": 1864,
+    "sha256": "6f0eddb4757149c91b061d2097986b6345678ff8a684b60089b17dcf5643e0b4",
+    "extension": "gz"
+  },
+  "notes": {}
+}

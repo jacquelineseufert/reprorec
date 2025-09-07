@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "tool": "reprorec",
+  "tool_version": "0.1.0",
+  "timestamp_utc": "2025-09-07T18:26:26Z",
+  "source": {
+    "url": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/download/ref-nuts-2021-01m.geojson.zip",
+    "doi": {},
+    "http_status": 200,
+    "content_type": "application/zip",
+    "content_length": 184483756,
+    "etag": null,
+    "last_modified": null
+  },
+  "file": {
+    "path": "C:/Users/benva/OneDrive/Documents/reprorec/Code/data/nuts_2021_01m.geojson.zip",
+    "size_bytes": 184483756,
+    "sha256": "cb73e1d621ad02d9b9edcbe339232e964bf5301a85325a154273918686090e0b",
+    "extension": "zip"
+  },
+  "notes": {}
+}

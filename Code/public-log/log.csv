@@ -1,0 +1,3 @@
+timestamp_utc,sha256,url,receipt,signature
+2025-09-07T17:20:16Z,d19d61aefad04a947865dde7a08363cc0fe73bf597ea61c704f7c1603541faa7,https://ec.europa.eu/eurostat/api/dissemination/files/data/nama_10_gdp.tsv.gz,nama_10_gdp.tsv.gz.receipt.json,nama_10_gdp.tsv.gz.receipt.json.asc
+2025-09-07T18:27:27Z,a581db488db400a3dc047f64e81bc33cde283957b755bed26b7e532440aa7383,https://ec.europa.eu/eurostat/api/dissemination/files/data/nama_10_gdp.tsv.gz,nama_10_gdp_2025-09-07_2027.tsv.gz.receipt.json,nama_10_gdp_2025-09-07_2027.tsv.gz.receipt.json.asc

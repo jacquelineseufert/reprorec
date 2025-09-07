@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "tool": "reprorec",
+  "tool_version": "0.1.0",
+  "timestamp_utc": "2025-09-07T17:00:04Z",
+  "source": {
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/sdmx/2.1/data/DEMO_GIND/A.NATT.FR?format=TSV&detail=dataonly",
+    "doi": {},
+    "http_status": 200,
+    "content_type": "text/tab-separated-values",
+    "content_length": 706,
+    "etag": null,
+    "last_modified": null
+  },
+  "file": {
+    "path": "C:/Users/benva/OneDrive/Documents/reprorec/Code/data/demo_gind_fr.tsv",
+    "size_bytes": 706,
+    "sha256": "2272577752658316cf778d5bccb0a6d48b85c22f4cf872fbfa56e0dbecb362a5",
+    "extension": "tsv"
+  },
+  "notes": {}
+}
